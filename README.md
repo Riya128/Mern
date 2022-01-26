@@ -1,8 +1,10 @@
-#Mern E-Commerce
-##Install dependencies
-**For Frontend** - >cd frontend >npm i
-**For Backend** - >npm i
-###Env Variables
+# Mern E-Commerce
+
+## Install dependencies
+**For Frontend -**   `cd frontend`  `npm i`
+
+**For Backend -**   `npm i`
+### Env Variables
 Create a config.env file in backend/config directory and add the following variables in order to use the app.
 
 **Essential Variables** PORT= DB_URI = STRIPE_API_KEY= STRIPE_SECRET_KEY= JWT_SECRET= JWT_EXPIRE= COOKIE_EXPIRE= 
